@@ -11,6 +11,7 @@
 		D9E3C58429D22F78005FA2C3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E3C58329D22F78005FA2C3 /* ContentView.swift */; };
 		D9E3C58629D22F7C005FA2C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9E3C58529D22F7C005FA2C3 /* Assets.xcassets */; };
 		D9E3C58929D22F7C005FA2C3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9E3C58829D22F7C005FA2C3 /* Preview Assets.xcassets */; };
+		D9E3C59029D22FAD005FA2C3 /* Homework 1 Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9E3C58F29D22FAD005FA2C3 /* Homework 1 Storyboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D9E3C58329D22F78005FA2C3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D9E3C58529D22F7C005FA2C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D9E3C58829D22F7C005FA2C3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D9E3C58F29D22FAD005FA2C3 /* Homework 1 Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Homework 1 Storyboard.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				D9E3C58129D22F78005FA2C3 /* SCS_141_Homework_1App.swift */,
 				D9E3C58329D22F78005FA2C3 /* ContentView.swift */,
+				D9E3C58F29D22FAD005FA2C3 /* Homework 1 Storyboard.storyboard */,
 				D9E3C58529D22F7C005FA2C3 /* Assets.xcassets */,
 				D9E3C58729D22F7C005FA2C3 /* Preview Content */,
 			);
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D9E3C58929D22F7C005FA2C3 /* Preview Assets.xcassets in Resources */,
+				D9E3C59029D22FAD005FA2C3 /* Homework 1 Storyboard.storyboard in Resources */,
 				D9E3C58629D22F7C005FA2C3 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
